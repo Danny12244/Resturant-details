@@ -1,0 +1,152 @@
+[
+    {
+      "image": "assets/restaurant1.jpeg",
+      "name": "Chaitanya Parathas",
+      "id":1,
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": 4.3,
+      "deliveryTimings": 33,
+      "costFortwo": 200,
+      "offers": ["20% off", "Use TRYNEW"],
+     "payment_methods": {
+       "card": true,
+       "cash": true,
+        "upi": true
+    }
+    },
+
+    {
+      "image": "assets/restaurant2.jpeg",
+      "name": "MH 12 Pav Bhaji",
+        "id":2,
+      "category": [
+        "Snacks", "Pizza", "Beverages"," Steet Food"
+      ],
+      "rating": 4.0,
+      "deliveryTimings": 25,
+      "costFortwo": 250,
+      "offers": ["10% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+         "upi": true
+     }
+    },
+
+    {
+      "image": "assets/restaurant3.jpeg",
+      "name": "Lunch Box",
+      "id":3,
+      "category": [
+        "North India"," Punjabi"," Combo", "Biryani"," Healthy Food", "Jain", "Thalis" 
+      ],
+      "rating": 4.2,
+      "deliveryTimings": 31,
+      "costFortwo": 200,
+      "offers": ["20% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+         "upi": true
+     }
+    },
+
+
+    {
+      "image": "assets/restaurant4.jpeg",
+      "name": "The Hungry Hippe",
+      "id":4,
+      "category": [
+       " Chinese", "Italian", "Thai"
+      ],
+      "rating": 2.2,
+      "deliveryTimings": 38,
+      "costFortwo": 500,
+      "offers": ["40% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+         "upi": true
+     }
+    },
+
+    {
+      "image": "assets/restaurant5.jpeg",
+      "name": "Ovenstory Pizzas",
+      "id":5,
+      "category": [
+      "Pizzas"
+      ],
+      "rating": 4.1,
+      "deliveryTimings": 45,
+      "costFortwo": 600,
+      "offers": ["50% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+         "upi": true
+     }
+    },
+
+    {
+      "image": "assets/restaurant6.jpeg",
+      "name": "Starbucks Coffee",
+      "id":6,
+      "category": [
+        "Beverages", "Ice Cream"
+      ],
+      "rating": 4.3,
+      "deliveryTimings": 38,
+      "costFortwo": 400,
+      "offers": ["40% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+         "upi": true
+     }
+    },
+
+    {
+      "image": "assets/restaurant9.jpeg",
+      "name": "Chaitanya Parathas",
+      "id":7,
+      "category": [
+        "Beverages", "Ice Cream"
+      ],
+      "rating": 4.3,
+      "deliveryTimings": 38,
+      "costFortwo": 400,
+      "offers": ["40% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+         "upi": true
+     }
+    },
+
+    
+    {
+      "image": "assets/restaurant10.jpeg",
+      "name": "Biryani House",
+      "id":8,
+      "category": [
+        "Beverages", "Ice Cream"
+      ],
+      "rating": 4.3,
+      "deliveryTimings": 38,
+      "costFortwo": 400,
+      "offers": ["40% off", "Use TRYNEW"] ,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+         "upi": true
+     }
+    }
+
+  ]
